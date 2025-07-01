@@ -1,3 +1,5 @@
+package kanan;
+
 import java.util.PriorityQueue;
 
 public class Task2 {
