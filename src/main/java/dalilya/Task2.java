@@ -1,6 +1,6 @@
-package kanan;
+package dalilya;
 
-public class Task4 {
+public class Task2 {
     static class Islands {
         public int howMuchlands(char[][] matrix) {
             if (matrix == null || matrix.length == 0)

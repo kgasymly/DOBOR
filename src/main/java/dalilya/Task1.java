@@ -1,8 +1,8 @@
-package kanan;
+package dalilya;
 
 import java.util.Stack;
 
-public class Task3 {
+public class Task1 {
     public static void main(String[] args) {
         int[] temperatures = {17, 16, 19, 15, 13, 18, 20};
         int[] result = dailyTemperatures(temperatures);
